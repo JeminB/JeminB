@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeminBhalani
 - 👀 I’m interested in Reactjs, Nextjs, Expressjs, MongoDB, Typescript, Redux and many more...
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on some knowledge improvable project and any reactjs project as part time or full time role
+- 💞️ I’m looking to collaborate on some knowledge gainable projects in Javascript, HTML, CSS, Reactjs, Nextjs, Typescript, GQL, Redux, Nodejs, ExpressJs and other project as part time or full time role
 - 📫 How to reach me -------===> mail me at my personal mail :-jmnbhalani@gmail.com
 
 <!---
